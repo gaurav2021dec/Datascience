@@ -2,5 +2,6 @@
 to predict prices of train
 
 ##technologies 
-phython
+
+python
 

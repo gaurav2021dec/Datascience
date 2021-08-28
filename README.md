@@ -1,2 +1,6 @@
 # Datascience
-rent 
+to predict prices of train
+
+##technologies 
+phython
+
